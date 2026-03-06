@@ -1,3 +1,4 @@
+
 <div align="center">
   <img src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" width="100px" alt="GitHub Readme Stats" />
   <h1 style="font-size: 28px; margin: 10px 0;">GitHub Readme Stats</h1>
@@ -84,9 +85,9 @@
   - [Quick Tip (Align The Cards)](#quick-tip-align-the-cards)
     - [Stats and top languages cards](#stats-and-top-languages-cards)
     - [Pinning repositories](#pinning-repositories)
-- [Deploy on your own](#deploy-on-your-own)
-  - [GitHub Actions (Recommended)](#github-actions-recommended)
-  - [Self-hosted (Vercel/Other) (Recommended)](#self-hosted-vercelother-recommended)
+- [Deploy on your own (recommended)](#deploy-on-your-own-recommended)
+  - [GitHub Actions](#github-actions)
+  - [Self-hosted (Vercel/Other)](#self-hosted-vercelother)
     - [First step: get your Personal Access Token (PAT)](#first-step-get-your-personal-access-token-pat)
     - [On Vercel](#on-vercel)
     - [:film\_projector: Check Out Step By Step Video Tutorial By @codeSTACKr](#film_projector-check-out-step-by-step-video-tutorial-by-codestackr)
