@@ -999,6 +999,12 @@ Thanks! :heart:
 
 ***
 
+## Vercel Web Analytics
+
+This project uses [Vercel Web Analytics](https://vercel.com/docs/analytics) to monitor performance and usage metrics. For more information about how analytics is configured and used in this project, see [ANALYTICS.md](ANALYTICS.md).
+
+***
+
 [![https://vercel.com?utm\_source=github\_readme\_stats\_team\&utm\_campaign=oss](powered-by-vercel.svg)](https://vercel.com?utm_source=github_readme_stats_team\&utm_campaign=oss)
 
 Contributions are welcome! <3
