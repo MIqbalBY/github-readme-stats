@@ -103,3 +103,13 @@ If analytics data is not appearing:
 4. Check that `vercel.json` contains the analytics configuration
 
 For more information, visit the [Vercel Web Analytics Documentation](https://vercel.com/docs/analytics).
+
+## Integration with Speed Insights
+
+This project also has **Vercel Speed Insights** enabled, which complements Web Analytics by providing real-time performance monitoring and Core Web Vitals tracking. While Web Analytics focuses on traffic and usage patterns, Speed Insights focuses on performance metrics and user experience.
+
+Together, these tools provide a complete picture of your application's health:
+- **Web Analytics**: Traffic, page views, visitor counts, geographic distribution
+- **Speed Insights**: Performance metrics, Core Web Vitals, response times, user experience
+
+For more information about Speed Insights configuration and usage, see [SPEED_INSIGHTS.md](./SPEED_INSIGHTS.md).
